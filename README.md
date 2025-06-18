@@ -14,6 +14,7 @@ Predict employee retention risks and get AI-powered recommendations for data sci
 ## Installation
 ```bash
 # Clone repository
+<<<<<<< HEAD
 git clone https://github.com/HR-Analytics-DS.git
 cd HR-Analytics-DS
 
@@ -56,6 +57,7 @@ hr-analytics-job-change/
 | F1 Score | 0.80 |
 
 ## Contributors
+<<<<<<< HEAD
 - [Affan Moshe](https://github.com/affanmoshe)
 - [Denina Nastiti Putri Amani](https://github.com/deninanastiti)
 - [Mohammad Fahmi Hakim](https://github.com/ffhakim)
