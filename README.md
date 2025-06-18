@@ -82,4 +82,4 @@ HR-Analytics-DS/
 - [Zahra Vony](https://github.com/zahravony507)
 
 ## License
-This project is licensed under the MIT License - see [LICENSE](https://github.com/ffhakim/HR-Analytics-DS/blob/main/LICENSE.txt) for details.
+This project is licensed under the MIT License - see [LICENSE](https://github.com/ffhakim/HR-Analytics-DS/blob/main/LICENSE) for details.
