@@ -1,0 +1,6 @@
+encoders = {}
+for col in categorical_cols:
+    le = LabelEncoder()
+    le.fit(df[col])
+    encoders[col] = le
+joblib.dump(encoders, 'label_encoders.joblib')

@@ -1,0 +1,2 @@
+feature_columns = X_train.columns.tolist()
+joblib.dump(feature_columns, 'feature_columns.joblib')

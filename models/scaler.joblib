@@ -1,0 +1,4 @@
+from sklearn.preprocessing import StandardScaler
+scaler = StandardScaler()
+scaler.fit(X_train)
+joblib.dump(scaler, 'scaler.joblib')

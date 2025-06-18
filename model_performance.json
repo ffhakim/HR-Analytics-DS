@@ -1,0 +1,28 @@
+import json
+
+performance = {
+    "best_model": "Random Forest",
+    "best_f1": 0.8523,
+    "model_version": "20231015_1420",
+    "metrics": [
+        {
+            "Model": "Logistic Regression",
+            "Accuracy": 0.8124,
+            "Precision": 0.7841,
+            "Recall": 0.7423,
+            "F1-Score": 0.7625,
+            "ROC AUC": 0.8721
+        },
+        {
+            "Model": "Random Forest",
+            "Accuracy": 0.8512,
+            "Precision": 0.8234,
+            "Recall": 0.7912,
+            "F1-Score": 0.8523,
+            "ROC AUC": 0.8923
+        }
+    ]
+}
+
+with open('model_performance.json', 'w') as f:
+    json.dump(performance, f, indent=2)
