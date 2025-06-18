@@ -14,15 +14,12 @@ Predict employee retention risks and get AI-powered recommendations for data sci
 ## Installation
 ```bash
 # Clone repository
-git clone https://github.com/HR-Analytics-DS.git
+git clone https://github.com/ffhakim/HR-Analytics-DS.git
 cd HR-Analytics-DS
 
 # Install dependencies
-# For model training environment
-pip install -r training/requirements.txt
-
-# For Streamlit application
-pip install -r app/requirements.txt
+pip install -r training/requirements.txt  # For model training
+pip install -r app/requirements.txt       # For Streamlit application
 
 # Run Streamlit app
 streamlit run app/streamlit_app.py
@@ -49,6 +46,8 @@ HR-Analytics-DS/
 │   ├── feature_columns.joblib      # Feature columns
 │   └── model_comparison.csv        # Model evaluation results
 ├── app/                            # Streamlit application
+│   ├── assets/                     # Images and resources
+│   │   └── hr_analytics.png        # App screenshot
 │   ├── streamlit_app.py            # Main application
 │   └── requirements.txt            # App dependencies
 ├── training/                       # Model training scripts
