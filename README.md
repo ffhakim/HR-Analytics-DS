@@ -31,7 +31,7 @@ streamlit run app/streamlit_app.py
 
 ## Usage
 1. Login with demo credentials:
-   - Admin: `admin` / `user123"`
+   - Admin: `admin` / `user123`
    - User: `user` / `password123`
 2. Fill in employee details
 3. Get retention prediction
