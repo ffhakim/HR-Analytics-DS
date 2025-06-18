@@ -64,15 +64,16 @@ HR-Analytics-DS/
 └── model_performance.json          # Model metrics
 ```
 
-## Model Performance
-```bash
-🧠 Model Performance
-Model	Accuracy	| Precision |	Recall	| F1-Score |	ROC AUC
-Logistic Regression	| 0.81	| 0.78	| 0.74	| 0.76	| 0.87
-Decision Tree	0.79	0.75	0.72	0.73	0.78
-Random Forest	0.85	0.82	0.79	0.80	0.89
-XGBoost	0.83	0.80	0.77	0.78	0.88
-```
+## 🧠 Model Performance
+
+| Model               | Accuracy | Precision | Recall | F1-Score | ROC AUC |
+|---------------------|----------|-----------|--------|----------|---------|
+| Logistic Regression | 0.81     | 0.78      | 0.74   | 0.76     | 0.87    |
+| Decision Tree       | 0.79     | 0.75      | 0.72   | 0.73     | 0.78    |
+| **Random Forest**   | **0.85** | **0.82**  | **0.79**| **0.80** | **0.89**|
+| XGBoost             | 0.83     | 0.80      | 0.77   | 0.78     | 0.88    |
+
+*Random Forest was selected as the best performing model*
 
 ## Contributors
 - [Affan Moshe](https://github.com/affanmoshe)
