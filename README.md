@@ -56,7 +56,7 @@ HR-Analytics-DS/
 │   └── requirements.txt            # Training dependencies
 ├── docs/                           # Documentation
 │   ├── project_report.md           # Technical documentation
-│   └── presentation.pdf            # Project presentation
+│   └── model_card.md               # Model documentation
 ├── tests/                          # Test scripts
 ├── .gitignore                      # Files to ignore in Git
 ├── LICENSE                         # Project license
