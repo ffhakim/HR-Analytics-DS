@@ -63,4 +63,4 @@ hr-analytics-job-change/
 - [Zahra Vony](https://github.com/zahravony507)
 
 ## License
-This project is licensed under the MIT License - see [[LICENSE](LICENSE)](https://github.com/ffhakim/HR-Analytics-DS/blob/main/LICENSE.txt) for details.
+This project is licensed under the MIT License - see [LICENSE](https://github.com/ffhakim/HR-Analytics-DS/blob/main/LICENSE.txt) for details.
