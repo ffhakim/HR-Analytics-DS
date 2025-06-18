@@ -63,7 +63,7 @@ HR-Analytics-DS/
 └── model_performance.json          # Model metrics
 ```
 
-## 🧠 Model Performance
+## Model Performance
 
 | Model               | Accuracy | Precision | Recall | F1-Score | ROC AUC |
 |---------------------|----------|-----------|--------|----------|---------|
